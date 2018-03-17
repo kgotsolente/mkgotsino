@@ -1,6 +1,6 @@
 <ion-header>
   <ion-navbar color="primary">
-    <ion-title *ngIf="!categoryTitle">Recent posts</ion-title>
+    <ion-title *ngIf="!categoryTitle">Recents posts</ion-title>
     <ion-title *ngIf="categoryTitle">{{categoryTitle}} posts</ion-title>
     <ion-buttons *ngIf="loggedUser" end>
       <button ion-button icon-only (click)="logOut()">
