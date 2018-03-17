@@ -1,6 +1,6 @@
 {
-  "name": "ionic-wordpress-example",
-  "app_id": "",
+  "name": "Mkgotsino",
+  "app_id": "a1ea0f12",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
