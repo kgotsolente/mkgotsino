@@ -1,8 +1,8 @@
 {
   "name": "Mkgotsino",
-  "app_id": "a1ea0f12",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "app_id": ""
 }
