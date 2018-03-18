@@ -1,6 +1,6 @@
 {
   "name": "Mkgotsino",
-  "app_id": "cc079552",
+  "app_id": "",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
